@@ -1,1 +1,2 @@
 ![WhatsApp Image 2025-01-12 at 21 37 03_160de86c](https://github.com/user-attachments/assets/5bb98e26-2216-4d03-82ff-009efabd2885)
+This project implements a deep learning model to detect and classify diseases in cotton plants using images. The system uses a Convolutional Neural Network (CNN) built with PyTorch and is deployed through a Flask web application, making it easy for users to upload images and get instant predictions.
